@@ -7,3 +7,4 @@ for i in range(b,a-1,-1):
 for j in range(a,b+1):
     if j%2==0:
         print(j)    
+a = 98
